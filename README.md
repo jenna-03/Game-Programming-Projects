@@ -29,6 +29,8 @@ To run the games, ensure you have the following:
 ### C++ Games
 1. Navigate to the C++ game directory
 2. Compile the game using:
+   ```bash
    g++ <game_name>.cpp -o <output_name>
-3. Run the game using:
+4. Run the game using:
+   ```bash
     ./<output_name>
